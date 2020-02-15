@@ -1,2 +1,2 @@
-# DS-n-ML
-DS 'n ML code to practice open source projects
+# INSAID DS capstone project
+Jupyter notebook for INSAID data science capstone project
