@@ -1,3 +1,2 @@
-# bookish-giggle
-Hello-World! You know the usual...
-Ok, branching works :)
+# DS-n-ML
+DS 'n ML code to practice open source projects
